@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Gravatar for Ethereum
-repository: https://github.com/graphprotocol/example-subgraph
+description: Gravatar for Ethereum, a first test with the subgraph name gqSubgraph
+repository: https://github.com/gustavoquincy/gqSubgraph
 schema:
   file: ./schema.graphql
 dataSources:
